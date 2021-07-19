@@ -1,3 +1,4 @@
+prompt("Hi My name is Aadil Mugal\nLet's Enjoy Game");
 const name = prompt("🎷🎷🎷🎷\nEnter your name");
 alert(`Nice to meet you ${name}`);
 var card = 5;
